@@ -30,5 +30,5 @@ Welcome to my official certification repository. Here, I showcase verified certi
 
 ---
 
-Let’s grow one skill a day. 🚀  
+Let’s grow one skill a day.  
 ⭐ Star this repo if you find it inspiring.
